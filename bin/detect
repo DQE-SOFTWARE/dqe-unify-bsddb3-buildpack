@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo "Building package with Git SSH key"
+echo "installing bsddb3"
 exit 0
