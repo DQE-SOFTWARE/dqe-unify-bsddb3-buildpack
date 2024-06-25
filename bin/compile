@@ -1,2 +1,2 @@
-apt install libdb-dev
-pip install bsddb3
+sudo apt install libdb-dev
+sudo pip install bsddb3
